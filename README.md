@@ -41,9 +41,8 @@ python train.py \
 
 ```bibtex
 @mastersthesis{kuznetsova2026byte,
-  author  = {Kuznetsova, Svetlana Vasilevna},
+  author  = {Kuznetsova, Svetlana},
   title   = {Exploring Approaches to Distillation for Models Without Shared Vocabularies},
-  school  = {HSE University},
   year    = {2026}
 }
 ```
