@@ -25,7 +25,7 @@ pip install -r requirements.txt
 Training with the byte-level loss:
 
 ```bash
-python train.py \
+python run_distillation.py \
   --student EleutherAI/pythia-70m \
   --teacher HuggingFaceTB/SmolLM2-360M-Instruct \
   --dataset hellaswag \
